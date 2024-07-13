@@ -21,17 +21,22 @@ Length of Membership: How many years the customer has been a member.
 # Coeffecient
 
 Avg. Session Length	25.691540
+
 Time on App	37.892600
+
 Time on Website	0.560581
+
 Length of Membership	61.648594
 
 # Performance Metrics
 
 MAE: 7.742671285838712
+
 MSE: 93.83297800820066
+
 RMSE: 9.686742383701585
 
 
-Reference Material:https://www.udemy.com/share/101WaUB0scc1dQR34=/
+Reference Material: https://www.udemy.com/share/101WaUB0scc1dQR34=/
 
 
